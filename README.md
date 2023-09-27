@@ -1,9 +1,7 @@
-## Table of contents
+# Table of Contents
 
-- [My Certifications](#My-Certifications)
-  - [Screenshots](#screenshots)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
+- [My Certifications](#my-certifications)
+- [Screenshots](#screenshots)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -14,6 +12,7 @@ These are my current certifications:
 - Digital Marketing
 - Design Thinking
 - HTML Email Development
+- Advanced Email Marketing
 - Developer Advocate
 - Git
 
@@ -35,6 +34,11 @@ These are my current certifications:
 - Certificate ID#: UC-164c8e46-a21f-47bd-86c2-4782a13e0a82
 - Reference No. 0004
 
+![Advanced Email Marketing Certification](./img/Advanced-Email-Marketing-Cert-92723.jpg)
+
+- [Advanced Email Marketing certification Web Link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2MDAiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NTQxMjU2XzE2OTU4Mzc2NjAucG5nIiwidXNlcm5hbWUiOiJNaWNoZWxsZSBSZW5lZSBCbG9vZHdvcnRoIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2515%2FAdvanced-Email-Marketing%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=940039034441098149&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVLzQ0jjAKdyoockkCAI3yetUlAAAA)
+- Certificate ID#: 4541256
+
 ![Developer Advocate Basics Certification From Mind Luster](./img/Google-Dev-Advocate-Cert-5-10-22-J.jpg)
 
 - [Developer Advocate Certificate Verification Web Link](https://www.mindluster.com/student/certificate/376934472)
@@ -46,22 +50,11 @@ These are my current certifications:
 - Certificate ID #: UC-6d43caf5-24f3-4e73-a268-4b5af4a4c3b2
 - Reference No. 0004
 
-### Built with
-
-- Using BASH Terminal
-- Markdown
-- Git
-- VSCode Editor
-
-### Continued development
-
-I am currently taking the Complete Figma Megacourse through Udemy.
-
 ## Author
 
 Michelle Renee "Slim" Bloodworth is an experienced, self-taught client-side UI Developer and Designer, content writer, former stand-up comic and former bartender with a background in education.
 
-- Website - [Michelle Renee](https://slimbloodworth.editorx.io/portfolio)
+- Website - [michellerenee.dev](https://michellerenee.dev)
 - Facebook - [Creative Software Solutions](https://www.facebook.com/profile.php?id=100073842390690)
 - CodePen - [@slimbloodworth](https://codepen.io/slimbloodworth)
 - LinkedIn - [Michelle Renee](https://www.linkedin.com/in/michelle-renee-99b455187/)
@@ -69,4 +62,4 @@ Michelle Renee "Slim" Bloodworth is an experienced, self-taught client-side UI D
 
 ## Acknowledgments
 
-Google Learn, SkillUp, Udemy all have been very wonderful resources for education and certifications. Colt Steele is currently one of my top picks for a teacher and his courses on Udemy are fantastic. GitHub Learning Lab is priceless for anyone in software development or looking to get into software development.
+Google Learn, Simplilearn, Udemy all have been very wonderful resources for education and certifications, and a great way to skillup.
