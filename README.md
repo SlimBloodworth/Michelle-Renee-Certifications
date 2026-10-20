@@ -52,12 +52,12 @@ These are my current certifications:
 
 ## Author
 
-Michelle Renee "Slim" Bloodworth is an experienced, self-taught client-side UI Developer and Designer, content writer, former stand-up comic and former bartender with a background in education.
+Michelle Renee "Slim" Bloodworth is an experienced, self-taught softwear engineer and designer,and former stand-up comic.
 
 - Website - [michellerenee.dev](https://michellerenee.dev)
-- Facebook - [Creative Software Solutions](https://www.facebook.com/profile.php?id=100073842390690)
+- Facebook - [Cumberland Digital](https://www.facebook.com/profile.php?id=100073842390690)
 - CodePen - [@slimbloodworth](https://codepen.io/slimbloodworth)
-- LinkedIn - [Michelle Renee](https://www.linkedin.com/in/michelle-renee-99b455187/)
+- LinkedIn - [Michelle Renee Bloodworth](https://www.linkedin.com/in/michelle-renee-99b455187/)
 - GitHub - [@slimbloodworth](https://github.com/SlimBloodworth)
 
 ## Acknowledgments
