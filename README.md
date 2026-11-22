@@ -18,6 +18,9 @@ These are my current certifications:
 
 ### Screenshots
 
+![AI Prompt Engineering Certification from Udemy](./img/AI-prompt-engineering-cert112126.png)
+- [Verify Credential](https://www.udemy.com/certificate/UC-57c172f4-db56-4937-a9d7-e70f8e3a73cb/)
+
 ![Digital Marketing Certification from Google](./img/Digital-Marketing-Cert-05-26-22-J.jpg)
 
 - [Digital Marketing Certificate Verification Web Link](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
