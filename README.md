@@ -14,13 +14,19 @@ These are my current certifications:
 - Design Thinking
 - HTML Email Development
 - Advanced Email Marketing
-- Developer Advocate
-- Git
+- Git and GitHub
 
 ### Screenshots
 
 ![AI Prompt Engineering Certification from Udemy](./img/AI-prompt-engineering-cert112126.png)
+
 - [Verify Credential](https://www.udemy.com/certificate/UC-57c172f4-db56-4937-a9d7-e70f8e3a73cb/)
+
+![Git and GitHub Cerification from Udemy](./img/GitandGitHub-Cert-02-01-23.jpg)
+
+- [Git and GitHub Certificate Verification Web Link](https://www.udemy.com/certificate/UC-6d43caf5-24f3-4e73-a268-4b5af4a4c3b2/)
+- Certificate ID #: UC-6d43caf5-24f3-4e73-a268-4b5af4a4c3b2
+- Reference No. 0004
 
 ![Digital Marketing Certification from Google](./img/Digital-Marketing-Cert-05-26-22-J.jpg)
 
@@ -42,17 +48,6 @@ These are my current certifications:
 
 - [Advanced Email Marketing certification Web Link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2MDAiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NTQxMjU2XzE2OTU4Mzc2NjAucG5nIiwidXNlcm5hbWUiOiJNaWNoZWxsZSBSZW5lZSBCbG9vZHdvcnRoIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2515%2FAdvanced-Email-Marketing%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=940039034441098149&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVLzQ0jjAKdyoockkCAI3yetUlAAAA)
 - Certificate ID#: 4541256
-
-![Developer Advocate Basics Certification From Mind Luster](./img/Google-Dev-Advocate-Cert-5-10-22-J.jpg)
-
-- [Developer Advocate Certificate Verification Web Link](https://www.mindluster.com/student/certificate/376934472)
-- Certificate ID #: 376934472
-
-![Git and GitHub Cerification from Udemy](./img/GitandGitHub-Cert-02-01-23.jpg)
-
-- [Git and GitHub Certificate Verification Web Link](https://www.udemy.com/certificate/UC-6d43caf5-24f3-4e73-a268-4b5af4a4c3b2/)
-- Certificate ID #: UC-6d43caf5-24f3-4e73-a268-4b5af4a4c3b2
-- Reference No. 0004
 
 ## Author
 
