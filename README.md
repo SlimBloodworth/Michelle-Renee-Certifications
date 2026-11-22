@@ -9,6 +9,7 @@
 
 These are my current certifications:
 
+- AI Prompt Engineering
 - Digital Marketing
 - Design Thinking
 - HTML Email Development
