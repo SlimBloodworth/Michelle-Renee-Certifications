@@ -3,6 +3,7 @@
 - [My Certifications](#my-certifications)
 - [Screenshots](#screenshots)
 - [Acknowledgments](#acknowledgments)
+- [Author Links](#author-links)
 
 ## My Certifications
 
@@ -23,7 +24,7 @@ These are my current certifications:
 - Certificate ID #: UC-57c172f4-db56-4937-a9d7-e70f8e3a73cb
 - Reference No. 0004
 - Course Summary: Comprehensive training in Generative AI and prompt engineering, covering AI fundamentals, large language models, advanced prompting techniques, and practical applications across modern AI tools. Explored AI-powered workflow automation, application development, data analysis, content generation, custom GPTs, voice AI agents, and organizational AI adoption strategies.
-- Course Link:[AI Prompt Engineering](https://www.udemy.com/course/generative-ai-and-prompt-engineering)
+- Course Link: [AI Prompt Engineering](https://www.udemy.com/course/generative-ai-and-prompt-engineering)
 
 ![Git and GitHub Cerification from Udemy](./img/GitandGitHub-Cert-02-01-23.jpg)
 
@@ -31,7 +32,7 @@ These are my current certifications:
 - Certificate ID #: UC-6d43caf5-24f3-4e73-a268-4b5af4a4c3b2
 - Reference No. 0004
 - Course Summary: Comprehensive training in Git and GitHub, covering version control concepts, repository management, branching, merging, and conflict resolution. Explored advanced Git workflows including rebasing, commit history management, stashing, recovery techniques, version tagging, and Git internals, alongside remote repositories, collaborative development workflows, pull requests, and open-source contributions.
-- Course Link: [Git and gitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+- Course Link: [Git and GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
 
 ![Design Thinking Basics Certification From SkillUp](./img/Design-Thinking-Cert-09-27-22-J.jpg)
 
@@ -55,12 +56,11 @@ These are my current certifications:
 - Course Summary: Comprehensive training in email marketing strategy, covering audience development, subscriber acquisition, list-building techniques, and campaign planning. Explored persuasive copywriting, subject line optimization, email automation, landing page development, campaign performance metrics, and email marketing regulations to support effective audience engagement and business growth.
 - Course Link: [Email Marketing](https://www.simplilearn.com/learn-email-marketing-free-course-skillup) 
 
-
+## Author Links
 - Website - [michellerenee.dev](https://michellerenee.dev)
 - CodePen - [@slimbloodworth](https://codepen.io/slimbloodworth)
 - LinkedIn - [Michelle Renee Bloodworth](https://www.linkedin.com/in/michelle-renee-99b455187/)
 - GitHub - [@slimbloodworth](https://github.com/SlimBloodworth)
 
 ## Acknowledgments
-
 Simplilearn and Udemy have been very wonderful resources for education and certifications, and a great way to skillup.
